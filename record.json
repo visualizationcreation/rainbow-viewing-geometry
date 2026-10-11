@@ -1,0 +1,262 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "Why a Rainbow Retreats When You Walk Toward It",
+    "scope": "A connected beginner explanation of the observer-centered geometry behind an apparent rainbow endpoint, the full circular bow, a garden-spray observation, and the separate optical phenomenon called a glory.",
+    "visualQuery": "rainbow observer geometry diagram",
+    "intent": {
+      "subject": "A rainbow belongs to a viewing geometry",
+      "direction": "Explain exactly why walking toward a rainbow does not bring its apparent endpoint closer as an object. Connect that to the full circle and a short garden-spray observation. Use one connected beginner explanation with primary scientific or institutional sources. Keep geometry separate from a glory. Do not add philosophical claims about reality or self-reference.",
+      "perspective": "",
+      "origins": {
+        "subject": "stated",
+        "direction": "stated",
+        "perspective": "unspecified"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "The explanation does not require opposed positions."
+      },
+      "y": {
+        "negative": "individual droplet and sightline",
+        "positive": "complete observer-centered geometry",
+        "active": true,
+        "reason": "The readings move between the path through a droplet and the larger cone, circle, and observation."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "No historical sequence or future scenario is needed."
+      }
+    },
+    "speakers": [],
+    "readings": [
+      {
+        "id": "p0",
+        "label": "The endpoint is a changing sightline, not a nearby object",
+        "text": "Stand with the Sun behind you and water droplets ahead. Sunlight entering a suitable droplet is refracted, reflected once inside, and refracted again as it leaves. For a primary rainbow, the strongest returning light reaches you at color-dependent angles of roughly 40°–42° from the antisolar direction—the line extending from the Sun through your position into the sky opposite it.\n\nWhat looks like an endpoint in a field is therefore where part of this angular pattern overlaps your view of the ground. The field is a background, not a surface on which the bow rests. When you walk toward that apparent endpoint, your position—and thus your antisolar line and set of eligible sightlines—moves too. The droplets that previously sent rainbow light into your eyes generally no longer have the required geometry; different droplets farther along the new sightlines now send it to you. Consequently, the endpoint is continually reconstructed relative to your new position rather than approached as a fixed object.\n\nRotate every qualifying sightline around the antisolar axis and they form a cone with your eye at its tip. Its intersection with the droplet-filled region is a circle, with red near an angular radius of 42° and violet nearer 40°. From the ground, the horizon and terrain usually hide the lower portion, leaving an arc that seems to have two endpoints. From an elevated position, with illuminated droplets below as well as ahead, the complete circle can be visible.\n\nYou can see the same dependence with a garden hose: on a sunny day, stand with the Sun behind you and direct a fine mist safely away from people, roads, and electrical equipment. Move your head sideways while keeping mist ahead. The little bow shifts because a new selection of droplets satisfies the required Sun–droplet–eye angles. Do not stare toward the Sun. This is ordinary primary-rainbow geometry, not a glory.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "rainbow cone observer diagram",
+        "visualBrief": {
+          "subject": "Sun, observer, antisolar axis, droplet field, and approximately 42-degree rainbow cone",
+          "context": "A clean educational cross-section showing why the apparent ground endpoint changes when the observer moves",
+          "role": "subject",
+          "avoid": "Do not depict a solid rainbow touching the ground, a pot of gold, a glory, or rings around a shadow."
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.35,
+          "z": null
+        },
+        "placementReason": "This is the complete answer, combining droplet optics with the observer-centered cone, apparent endpoint, full circle, and spray observation.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "p1",
+        "label": "The geometry in one labeled sketch",
+        "text": "Draw four elements: (1) the Sun behind the observer, (2) the observer’s eye, (3) many suspended water droplets ahead, and (4) the antisolar axis extending straight from the Sun through the eye. From the eye, draw sightlines about 40°–42° away from that axis. Only droplets lying along those directions can contribute the bright primary bow for that observer. Extend the construction around the axis and the sightlines make a cone; a distant cross-section through the cone is circular.\n\nWalking changes the cone’s tip because the tip is the observer’s eye. It therefore changes the cone’s axis and which droplets lie on its surface. This is the precise geometric reason that a landscape feature cannot permanently mark the rainbow’s endpoint.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "antisolar rainbow cone labels",
+        "visualBrief": {
+          "subject": "A labeled Sun-eye-antisolar-axis diagram with a 40-to-42-degree cone",
+          "context": "Beginner geometry illustration viewed in cross-section and perspective",
+          "role": "example",
+          "avoid": "Avoid measuring 42 degrees from the horizon; the angle must be measured from the antisolar axis."
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.35,
+          "z": null
+        },
+        "placementReason": "This reading isolates the labeled construction underlying the broader explanation.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "p2",
+        "label": "Why the arc is part of a full circle",
+        "text": "The rainbow angle is available in every rotational direction around the antisolar axis, not only above it. That rotational symmetry produces a circular pattern centered on the antisolar point. Ground observers usually see only its upper portion because the Earth blocks sightlines to droplets below the horizon. The visible ends of the arc are therefore where the available droplet field or unobstructed view stops—not two physical ends of the optical pattern.\n\nAn aircraft, mountain, or other elevated viewpoint may put illuminated droplets below the observer, allowing much more of the circle, and sometimes the full circle, to be seen. Moving does not carry an observer toward that circle as a fixed ring; it relocates the vertex of the viewing cone.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "full circle rainbow aircraft",
+        "visualBrief": {
+          "subject": "A circular rainbow centered opposite the Sun as seen from an elevated viewpoint",
+          "context": "An example supporting the cone-and-circle geometry",
+          "role": "example",
+          "avoid": "Avoid glories centered tightly around an aircraft shadow or images without a broad primary rainbow circle."
+        },
+        "coordinates": {
+          "x": null,
+          "y": 0.05,
+          "z": null
+        },
+        "placementReason": "This develops the circular consequence of the observer-centered cone.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "p3",
+        "label": "Garden-spray check—and what a glory is not",
+        "text": "For a quick observation, use a hose nozzle that makes a fine mist. With the Sun behind you, place the mist ahead and look near the direction opposite the Sun. A small bow should appear when enough droplets occupy the required angles. Shift your viewing position: the bow shifts across the spray because different droplets now send properly directed light to your eyes. Keep the spray controlled, never aim it at people or traffic, and never turn to stare into the Sun.\n\nA glory should be kept separate from this construction. It consists of much smaller concentric colored rings close to the exact backscattering direction, often surrounding an observer’s or aircraft’s shadow on cloud or fog. Its wave-scattering mechanism and much smaller angular scale differ from the broad primary-rainbow circle near 40°–42°. A glory is therefore not the missing lower half, center, or endpoint of a rainbow.",
+        "kind": "fact",
+        "speaker": "",
+        "learn": "",
+        "visualQuery": "hose spray rainbow sunlight",
+        "visualBrief": {
+          "subject": "A person observing a small rainbow in fine garden-hose mist with the Sun behind them",
+          "context": "Safe outdoor demonstration of observer-dependent rainbow sightlines",
+          "role": "example",
+          "avoid": "Avoid pointing the hose at a face, showing the observer looking into the Sun, or depicting a glory around a shadow."
+        },
+        "coordinates": {
+          "x": null,
+          "y": -0.15,
+          "z": null
+        },
+        "placementReason": "This turns the geometry into an observation and explicitly separates it from glory optics.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "p0",
+        "to": "p1",
+        "relation": "elaborates",
+        "reason": "The labeled sketch expresses the Sun–observer–droplet geometry used in the main explanation.",
+        "basis": "evidence"
+      },
+      {
+        "from": "p0",
+        "to": "p2",
+        "relation": "elaborates",
+        "reason": "Rotating the qualifying sightlines around the antisolar axis explains the complete circle.",
+        "basis": "evidence"
+      },
+      {
+        "from": "p0",
+        "to": "p3",
+        "relation": "illustrates",
+        "reason": "The spray observation makes the changing selection of contributing droplets directly visible.",
+        "basis": "evidence"
+      },
+      {
+        "from": "p1",
+        "to": "p2",
+        "relation": "supports",
+        "reason": "The cone construction supplies the rotational geometry from which the circular bow follows.",
+        "basis": "evidence"
+      }
+    ],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "Clear daylight optics with restrained sky blue, water gray, and spectral accents."
+    },
+    "courseOrder": [],
+    "neighbors": [
+      {
+        "id": "n0",
+        "title": "Refraction and dispersion in a water droplet",
+        "domain": "Optics",
+        "summary": "Trace how wavelength-dependent refraction and one internal reflection concentrate different colors at slightly different angles.",
+        "relation": "underlying mechanism",
+        "bridge": "The 40°–42° spread in the primary bow comes from the droplet’s wavelength-dependent deflection of sunlight."
+      },
+      {
+        "id": "n1",
+        "title": "The antisolar point",
+        "domain": "Observational geometry",
+        "summary": "Explore how shadows identify the direction exactly opposite the Sun and organize several atmospheric optical displays.",
+        "relation": "shared reference direction",
+        "bridge": "The rainbow circle is centered on the antisolar point defined by the Sun and observer."
+      },
+      {
+        "id": "n2",
+        "title": "Secondary rainbows and Alexander’s dark band",
+        "domain": "Atmospheric optics",
+        "summary": "Compare the geometry produced by two internal reflections with the primary bow’s one-reflection path.",
+        "relation": "related droplet path",
+        "bridge": "Changing the number of internal reflections changes the exit angle, color order, and brightness distribution."
+      },
+      {
+        "id": "n3",
+        "title": "Fogbows and droplet size",
+        "domain": "Cloud physics",
+        "summary": "Examine why very small droplets broaden the bow and wash out its colors.",
+        "relation": "size-dependent variation",
+        "bridge": "The same observer-centered geometry is modified when wave effects become stronger for smaller droplets."
+      },
+      {
+        "id": "n4",
+        "title": "Conic sections in visual geometry",
+        "domain": "Mathematics",
+        "summary": "Investigate how a cone intersecting different spatial distributions can appear as circles or partial arcs.",
+        "relation": "Further afield: mathematical analogy",
+        "bridge": "The rainbow sightlines form a cone, although the visible bow is light arriving from droplets rather than a material curve drawn on a cutting plane."
+      }
+    ],
+    "sources": [
+      {
+        "title": "How Do Rainbows Form?",
+        "url": "https://www.weather.gov/fgz/Rainbow",
+        "publisher": "National Weather Service",
+        "readings": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Rainbow Simulator",
+        "url": "https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/rainbow-simulator",
+        "publisher": "NOAA National Environmental Satellite, Data, and Information Service",
+        "readings": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "title": "Why are Rainbows Curved as Semicircles?",
+        "url": "https://van.physics.illinois.edu/ask/listing/2195",
+        "publisher": "University of Illinois Physics Van",
+        "readings": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "title": "A Glorious View",
+        "url": "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2012-07-11",
+        "publisher": "NASA Goddard Space Flight Center",
+        "readings": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  "language": "en",
+  "receipt": "v2.cc849989be29a02bb446cd35988c34b8ff015e580638270b40248c870c3929a7",
+  "generatedAt": "2026-10-11T18:01:23.312Z",
+  "reaches": []
+}
